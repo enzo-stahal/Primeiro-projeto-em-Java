@@ -56,9 +56,3 @@ Este projeto foi criado com o objetivo de consolidar os conhecimentos iniciais e
 
 - Java
 - IDE de sua preferência (IntelliJ IDEA, Eclipse ou VS Code)
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
